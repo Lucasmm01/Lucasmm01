@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Lucas Machado
 
 - 📖 Atualmente sou estudante de Engenharia de Computação (USP)
-- 🔭 Pesquisando sobre IHC
-- 🌱 Estudando animações com CSS e UX
+- 🔭 Bolsista de Inciação Científica na area de IHC e Avaliação de Usabilidade
 - 👨🏽‍🎓 Tec. Informática (IFSP).
 
 <div align="center">
