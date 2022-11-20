@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Lucas Machado
 
-- 📖 Atualmente sou estudante de Engenharia de Computação (USP)
-- 🔭 Bolsista de Inciação Científica na area de IHC e Avaliação de Usabilidade
-- 👨🏽‍🎓 Tec. Informática (IFSP).
+- Estudante de Engenharia de Computação (USP)
+- Bolsista de Inciação Científica no projeto Objetos de Ensino e Aprendizado em I.A. e Robótica
 
 <div style="display: inline-block;">
   <a href="https://github.com/Lucasmm01">
